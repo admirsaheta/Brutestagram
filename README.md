@@ -24,7 +24,7 @@ git clone https://github.com/admirsaheta/brutestagram.git
 python brutestagram.py
 ```
 
-4. The script will attempt to log in to Instagram using each combination in `combolist.txt` and save the cookies for successful logins to `cookies.txt`.
+4. The script will attempt to log in to Instagram using each combination in `combo.txt` and save the cookies for successful logins to `cookies.txt`.
 
 ## Configuration
 
