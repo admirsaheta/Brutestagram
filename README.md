@@ -7,7 +7,7 @@ Brutestagram is a Python script that autom Instagram using a list of username an
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/brutestagram.git
+git clone https://github.com/admirsaheta/brutestagram.git
 ```
 
 2. Install the required dependencies:
